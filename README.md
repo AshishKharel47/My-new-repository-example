@@ -1,1 +1,1 @@
-# My-new-repository-example
+# My-repository-example
